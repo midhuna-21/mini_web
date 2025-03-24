@@ -1,12 +1,12 @@
-import CarPart5 from "../assets/CarPart5.jpg";
-import CarPart12 from "../assets/CarPart12.jpg";
+import redlight from "../assets/redlight.jpg";
+import blackcar from "../assets/blackcar.jpg";
 
 const Section8 = () => {
   return (
   <div className="flex w-full gap-x-20 mt-16 px-16 items-stretch">
                 <div className="w-[50%] flex flex-col justify-center ml-4">
                     <img
-                        src={CarPart5}
+                        src={redlight}
                         alt="Left Image"
                         className="w-full h-[80%] object-cover"
                     />
@@ -14,7 +14,7 @@ const Section8 = () => {
 
                 <div className="w-[50%] flex flex-col justify-center ml-4">
                     <img
-                        src={CarPart12}
+                        src={blackcar}
                         alt="Right Image"
                         className="w-full h-[300px] object-cover"
                     />

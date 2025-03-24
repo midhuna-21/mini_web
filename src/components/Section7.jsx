@@ -1,13 +1,13 @@
-import CarPart1 from "../assets/CarPart1.jpg";
-import CarPart2 from "../assets/CarPart2.jpg";
-import CarPart3 from "../assets/CarPart3.jpg";
+import steering from "../assets/steering.jpg";
+import elaveted from "../assets/elaveted.jpg";
+import interiors from "../assets/interiors.jpg";
 
 const Section7 = () => {
   return (
    <div className="flex justify-center items-center gap-24 py-10">
                 <div className="flex flex-col items-center">
                     <img
-                        src={CarPart1}
+                        src={steering}
                         alt="Design"
                         className="w-72 h-48 object-cover"
                     />
@@ -18,7 +18,7 @@ const Section7 = () => {
 
                 <div className="flex flex-col items-center">
                     <img
-                        src={CarPart2}
+                        src={elaveted}
                         alt="Performance"
                         className="w-72 h-48 object-cover"
                     />
@@ -28,7 +28,7 @@ const Section7 = () => {
                 </div>
                 <div className="flex flex-col items-center">
                     <img
-                        src={CarPart3}
+                        src={interiors}
                         alt="Interiors"
                         className="w-72 h-48 object-cover"
                     />

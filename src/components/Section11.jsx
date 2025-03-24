@@ -1,7 +1,7 @@
-import CarPart4 from "../assets/CarPart4.jpg";
-import CarPart5 from "../assets/CarPart5.jpg";
-import CarPart6 from "../assets/CarPart6.jpg";
-import CarPart7 from "../assets/CarPart7.jpg";
+import backlight from "../assets/backlight.jpg";
+import redlight from "../assets/redlight.jpg";
+import petrol from "../assets/petrol.jpg";
+import hood from "../assets/hood.jpg";
 
 const Section11 = () => {
   return (
@@ -13,7 +13,7 @@ const Section11 = () => {
                 <div className="grid grid-cols-4 gap-8">
                     <div className="flex flex-col">
                         <img
-                            src={CarPart4}
+                            src={backlight}
                             alt="Story 1"
                             className="w-60 h-60 object-cover"
                         />
@@ -27,7 +27,7 @@ const Section11 = () => {
                     </div>
                     <div className="flex flex-col">
                         <img
-                            src={CarPart5}
+                            src={redlight}
                             alt="Story 2"
                             className="w-60 h-60 object-cover"
                         />
@@ -42,7 +42,7 @@ const Section11 = () => {
 
                     <div className="flex flex-col">
                         <img
-                            src={CarPart6}
+                            src={petrol}
                             alt="Story 3"
                             className="w-60 h-60 object-cover"
                         />
@@ -56,7 +56,7 @@ const Section11 = () => {
                     </div>
                     <div className="flex flex-col">
                         <img
-                            src={CarPart7}
+                            src={hood}
                             alt="Story 4"
                             className="w-60 h-60 object-cover"
                         />
