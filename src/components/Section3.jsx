@@ -1,4 +1,4 @@
-import Lexo1Image from "../../public/lexo1.jpg";
+import Lexo1Image from "../assets/lexo1.jpg";
 
 const Section3 = () => {
   return (

@@ -1,4 +1,4 @@
-import HomecarImage from "../../public/homecar.jpg";
+import HomecarImage from "../assets/homecar.jpg";
 
 const Section1 = () => {
   return (

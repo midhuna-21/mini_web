@@ -1,7 +1,7 @@
-import CarPart4 from "../../public/cartpart4.jpg";
-import CarPart5 from "../../public/cartpart5.jpg";
-import CarPart6 from "../../public/carpart6.jpg";
-import CarPart7 from "../../public/carpart7.jpg";
+import CarPart4 from "../assets/cartpart4.jpg";
+import CarPart5 from "../assets/cartpart5.jpg";
+import CarPart6 from "../assets/carpart6.jpg";
+import CarPart7 from "../assets/carpart7.jpg";
 
 const Section11 = () => {
   return (

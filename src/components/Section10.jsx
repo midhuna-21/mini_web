@@ -1,4 +1,4 @@
-import Airx3Image from "../../public/airx3.jpg";
+import Airx3Image from "../assets/airx3.jpg";
 
 const Section10 = () => {
   return (

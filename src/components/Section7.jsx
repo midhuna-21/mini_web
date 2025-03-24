@@ -1,6 +1,6 @@
-import CarPart1 from "../../public/CarPart1.jpg";
-import CarPart2 from "../../public/carPart2.jpg";
-import CarPart3 from "../../public/CarPart3.jpg";
+import CarPart1 from "../assets/CarPart1.jpg";
+import CarPart2 from "../assets/carPart2.jpg";
+import CarPart3 from "../assets/CarPart3.jpg";
 
 const Section7 = () => {
   return (

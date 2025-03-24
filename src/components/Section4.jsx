@@ -1,4 +1,4 @@
-import Airx2Image from "../../public/airx2.jpg";
+import Airx2Image from "../assets/airx2.jpg";
 
 const Section4 = () => {
   return (

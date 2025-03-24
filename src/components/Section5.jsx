@@ -1,4 +1,4 @@
-import ModelAirx1Image from "../../public/modelairx1.jpg";
+import ModelAirx1Image from "../assets/modelairx1.jpg";
 
 const Section5 = () => {
   return (

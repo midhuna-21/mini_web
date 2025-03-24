@@ -1,5 +1,3 @@
-import { FaBars } from "react-icons/fa";
-
 const Section6 = () => {
   return (
    <div className="w-full flex justify-center py-12">
