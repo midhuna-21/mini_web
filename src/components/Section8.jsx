@@ -1,5 +1,5 @@
-import CarPart5 from "../assets/cartpart5.jpg";
-import CarPart12 from "../assets/carpart12.jpg";
+import CarPart5 from "../assets/CarPart5.jpg";
+import CarPart12 from "../assets/CarPart12.jpg";
 
 const Section8 = () => {
   return (

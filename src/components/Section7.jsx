@@ -1,5 +1,5 @@
 import CarPart1 from "../assets/CarPart1.jpg";
-import CarPart2 from "../assets/carPart2.jpg";
+import CarPart2 from "../assets/CarPart2.jpg";
 import CarPart3 from "../assets/CarPart3.jpg";
 
 const Section7 = () => {
